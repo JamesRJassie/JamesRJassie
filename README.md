@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, Java**
 
-- 👨‍💻 All of my projects are available at [https://jamesrjassie.github.io/James-Jassie-Portfolio/](https://jamesrjassie.github.io/James-Jassie-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://james-jassie.neocities.org/](https://james-jassie.neocities.org/)
 
 - 👀 In the future, I want to learn **the languages mentioned on my website. (Too many to list here)** [https://jamesrjassie.github.io/James-Jassie-Portfolio/](https://jamesrjassie.github.io/James-Jassie-Portfolio/)
 
